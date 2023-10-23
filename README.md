@@ -1,2 +1,2 @@
-# Data-Analytics_Excel
+# Data-Analytics
 Excel project 1
